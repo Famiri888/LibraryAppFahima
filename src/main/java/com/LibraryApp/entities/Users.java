@@ -89,4 +89,7 @@ public class Users {
                 ", booksList=" + booksList +
                 '}';
     }
+
+    public void setUserName(String name) {
+    }
 }
